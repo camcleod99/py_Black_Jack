@@ -1,4 +1,4 @@
-# PyBlackJack
+# Py_Black_Jack
 A CLI Blackjack Game
 
 ## Poetry Setup
